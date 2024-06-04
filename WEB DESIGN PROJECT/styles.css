@@ -1,0 +1,87 @@
+body {
+    font-family; Arial, sans-serif;
+	margin: 0
+	padding: 0;
+	background-color: #4CAF50; /* MINT Green background */
+	color: white; /* white text */
+}
+header {
+    background-color: #388E3C; /* Darker greem for header */
+	color: white;
+	padding: 1rem 0;
+	text-align: center;
+}
+header h1 {
+    maring: 0;
+}
+
+nav ul {
+    list-style: none;
+	padding: 0;
+	display: f;ex;
+	justify-content: center;
+	margin: 0;
+}
+
+nav ul li {
+    color: white;
+	text-decoration: none;
+	font-weight: bold; /* Bold the navigation links */
+}
+
+main {
+    padding: 2rem;
+}
+
+section {
+    margin-button: 2rem;
+}
+
+h2 {
+    color: #E8F5E9; /* Light green for headings *?
+}
+
+ul li {
+    background-color: #66BB6A; /* Lighter green for the list items */
+	margin: 0.55rem 0;
+	padding: 1rem;
+	border-radius: 5px;
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1):
+	color: white; /* Ensure text inside list items is white */
+}
+
+ul li h3 {
+    font-style: italic; /* Itaclicize item titles */
+    text-decoration: underline; /* Underline item titles */
+}
+
+ul li p {
+    font-weight: bold; /* Bold item descriptions */
+}
+
+.team member {
+    background-color; #66BB6A; /* Lighter green for team member sections */
+    margin: 1rem 0;
+    border-radius: 5px;
+    box-shadow: 0 2ox 5px rgba(0, 0, 0, 0.1);
+    color: white; /* Ensure text inside team member sections is white */
+}
+
+.team member h3 {
+    font-style: italic; /* Itaclicize team member names */
+    text-decoration: underline; /* Underline team member names */
+}
+
+/team member p {
+    font-weight: bold; /* Bold item member roles */
+}
+
+footer {
+    background-color: #388E3C; /* Darker green for footer */
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+    position: relative;
+    width: 100%;
+    bottom: 0;
+}	
